@@ -1,0 +1,76 @@
+* {padding: 0; margin: 0;}
+
+body {
+	background:#FC427B; margin-top:25px
+}
+
+header {width: 900px; background: #ffffff; padding: 25px; 
+	margin: auto; 
+	text-align: center;
+	color:red;	
+}
+	
+menu {width: 900px; background: #3742fa; padding: 25px; margin: auto;
+	padding : 25px;
+	
+	}
+	
+menu a {
+	color: white; text-decoration: none;
+	margin-right : 20px;
+}
+
+menu a:hover {
+	color:red;
+	text-decoration: underline;
+}
+
+article {
+	width: 900px; background:#ffffff;
+	margin: auto; padding: 25px;
+	text-align: justify;
+}
+
+article img {
+	float: left;
+	width: 350px; height: 250px;
+	margin: 0 25px 15px 0;
+}
+
+article h1 {
+	margin: 0 0 15px 0;
+}
+
+article p{
+	margin: 0 0 25px 0;
+	
+}
+
+article2 h1:font {
+		
+size: 16;
+}
+article2 h1{
+		width: 900px; padding: 25px ;margin: auto;
+}
+article2 p{
+		
+		background: blue;
+		width: 900px; padding: 25px; margin: auto;
+color: white;
+}
+
+footer{width: 900px; background: white; 
+	padding: 25px; margin: auto;
+	text-align: center;
+}
+
+footer p{
+	color: black;
+}
+
+.ini_satu{
+	width:930px; background:red;
+	margin:center;
+	text-align: center;
+}
